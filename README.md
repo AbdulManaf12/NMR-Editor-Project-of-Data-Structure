@@ -8,3 +8,4 @@ Instructions about Product:
 3.	Must have JDK: https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
 4.	After Extraction install the setup: http://sites.simbla.com/5654ea25-f3f3-d045-9283-ee74ccac2d48/www.nmrtd.com
 5.	Enjoy it.
+6.  Youtube Video: https://www.youtube.com/watch?v=soyu6HhkIvg&list=PLlmj5AXHzx-BVWF9LXUJuwy_Xe5H3q78C&index=1&t=26s
