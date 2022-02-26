@@ -6,3 +6,19 @@ lets have fun with NMR Editor.
 Step-1: Download JDK and install: https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
 
 Step-2: Download this project and extract and try to run it ....!
+
+https://youtu.be/5Toq7g3Ul_U
+
+
+*Interface:
+ 
+  ![image](https://user-images.githubusercontent.com/75582860/155855093-e20a6455-e4fb-42a4-a4b2-c1a0f77b6385.png)
+
+  ![image](https://user-images.githubusercontent.com/75582860/155855100-94e1514e-c028-4abf-b276-0b94449bf95a.png)
+
+  ![image](https://user-images.githubusercontent.com/75582860/155855106-658053f1-6ab7-4408-90b7-e8d5f9fcfb39.png)
+
+  ![image](https://user-images.githubusercontent.com/75582860/155855109-e79c1853-e312-47bc-8495-9023ea70a06a.png)
+
+  ![image](https://user-images.githubusercontent.com/75582860/155855112-ab8c2170-dbcc-4856-a886-c3bc3ca3f621.png)
+
